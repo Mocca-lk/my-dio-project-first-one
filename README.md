@@ -1,2 +1,5 @@
 # my-dio-project-first-one
-Esse é meu primeiro desafio com Git/Git Hub... 
+Repositório criado para desafio com Git/GitHub
+
+## Links úteis
+[Markdown guide](https://www.markdownguide.org/basic-syntax/)
