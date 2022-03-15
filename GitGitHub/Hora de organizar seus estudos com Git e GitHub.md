@@ -7,6 +7,7 @@ Tem uns outros passos antes, tipo, pra você jogar o arquivo que criou na nuvem 
 
 * Use o comando *git status* pra saber como que tá o andamento das suas alterações...
 * Lembre-se de sempre usar o *git add* e depois *git commit* junto com um nome de fase que indique algo significativo no projeto, precisa fazer isso se quer salvar suas alterações localmente e remotamente.
+* Use o comando *git push origin master* após fazer o commit do arquivo, pra enviá-lo pra nuvem.
 
 E por enquanto é isso...
 
